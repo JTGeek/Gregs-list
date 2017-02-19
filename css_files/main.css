@@ -45,7 +45,10 @@ main {
 }
 .nav2 {
 padding-top: 20px;
-  
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .listing_nav_button {
@@ -67,11 +70,9 @@ padding-top: 20px;
 }
 
 .results { 
-  /*display: inline-block;*/
   padding-top: 50px;
   padding-left: 0px;
   color: grey;
-  /*float: left;*/
   }
 .result_date {
   padding-right: 10px;
